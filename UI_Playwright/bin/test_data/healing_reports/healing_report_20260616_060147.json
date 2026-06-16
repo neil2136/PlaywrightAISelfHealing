@@ -1,0 +1,21 @@
+{
+  "healing_events": [
+    {
+      "timestamp": "2026-06-16T06:01:46.887562",
+      "broken_selector": ".static-entry-modal__modal-footer-cancel-old",
+      "element_description": " ",
+      "method": "rule_based",
+      "healed_selector": ".static-entry-modal__modal-footer-cancel",
+      "success": true,
+      "strategy_match": true
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "successful": 1,
+    "failed": 0,
+    "rule_based": 1,
+    "ai": 0,
+    "from_cache": 0
+  }
+}

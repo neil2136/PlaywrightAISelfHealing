@@ -1,0 +1,51 @@
+{
+    "SOSAIOT-TC-95079": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95079",
+        "title": "[base ui]: Verify that the policies/ngpe-access-rules page loads correctly and displays the address object list.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95080": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95080",
+        "title": "[base ui]: Title & Hierarchy: Verify the breadcrumb navigation displays as 2CB8ED694A24 / Policy / Rules and Policies / Access Rules.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95081": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95081",
+        "title": "[base ui]: Rule Set Filter: Verify the functionality of the \"Default & Custom\" dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95082": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95082",
+        "title": "[base ui]: IP Type Filter: Verify the functionality of the \"IPv4 & IPv6\" dropdown options.",
+        "result": "n/a"
+    },
+    "1SOSAIOT-TC-95083": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95083",
+        "title": "[base ui]: Zone Flow Filter: Verify the functionality of the \"All Zones -> All Zones\" dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95084": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95084",
+        "title": "[base ui]: Rule Status Filter: Verify the functionality of the \"Active & Inactive\" dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95092": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95092",
+        "title": "[base ui]: Table Headers: Verify the display of column headers: GENERAL, ZONE, ADDRESS, SERVICE, USER, SCHEDULE, SAML PROFILE, etc.",
+        "result": "n/a"
+    }
+}

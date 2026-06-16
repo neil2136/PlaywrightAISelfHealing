@@ -1,0 +1,79 @@
+{
+    "SOSAIOT-TC-94884": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94884",
+        "title": "[base ui]: Verify that the Network -> Interface page loads ",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94885": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94885",
+        "title": "[base ui]:Title and Hierarchy: Verify the breadcrumb navigation \"Network / System / Interfaces\" displays correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94886": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94886",
+        "title": "[base ui]:Tab Switching: Verify that the \"Interface Settings\" and \"Traffic Statistics\" tabs switch correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94887": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94887",
+        "title": "[base ui]: Protocol View Switching: Verify that the IPv4 and IPv6 sub-tabs switch correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94891": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94891",
+        "title": "[base ui]: Bottom Statistics: Verify that the total count at the bottom matches the number of visible interfaces (including sub-interfaces)",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94888": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94888",
+        "title": "[base ui]: Default Data: Verify that default data in IPv4 is displayed correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94889": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94889",
+        "title": "[base ui]: Default Data: Verify that default data in IPv6 is displayed correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94903": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94903",
+        "title": "[Interface Table]: Verify table headers include: NAME, ZONE, GROUP, IP ADDRESS, SUBNET MASK, IP ASSIGNMENT, STATUS, ENABLED, and COMMENT.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94898": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94898",
+        "title": "[Control Usability]: Verify clicking \"Virtual Interface\" correctly pops up the configuration dialog.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94899": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94899",
+        "title": "[Control Usability]: Verify clicking \"VPN Tunnel Interface\" correctly redirects to or pops up the VPN configuration interface.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-94900": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-94900",
+        "title": "[Control Usability]: Verify clicking \"4to6 Tunnel Interface\" pops up the IPv4 to IPv6 tunnel configuration window.",
+        "result": "n/a"
+    }
+}

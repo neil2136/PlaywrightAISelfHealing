@@ -1,0 +1,499 @@
+{
+    "SOSAIOT-TC-95313": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95313",
+        "title": "[base ui]: Verify that the dpi-ssl/client-ssl page can load normally and display the address object list.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95314": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95314",
+        "title": "[base ui]: Title and Hierarchy: Verify that the breadcrumb navigation displays as 2CB8ED694A24 / Policy / DPI-SSL / Client SSL.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95315": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95315",
+        "title": "[General]: Verify that the data reading (cur/peak/max) of Current DPI-SSL connections in the \"DPI-SSL STATUS\" area is accurate.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95316": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95316",
+        "title": "[General]: Verify the clickable state toggle of the \"Enable SSL Client Inspection\" main switch",
+        "result": ""
+    },
+    "SOSAIOT-TC-95317": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95317",
+        "title": "[General]: Verify the clickable state toggle of the \"Intrusion Prevention\" checkbox.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95318": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95318",
+        "title": "[General]: Verify the clickable state toggle of the \"Gateway Anti-Virus\" checkbox.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95319": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95319",
+        "title": "[General]: Verify the clickable state toggle of the \"Gateway Anti-Spyware\" checkbox.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95320": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95320",
+        "title": "[General]: Verify the clickable state toggle of the \"Application Firewall\" checkbox.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95321": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95321",
+        "title": "[General]: Verify the clickable state toggle of the \"Content Filter\" checkbox.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95322": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95322",
+        "title": "[General]: Verify the toggleability of the \"Always authenticate server for decrypted connections\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95323": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95323",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Always authenticate server for decrypted connections\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95324": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95324",
+        "title": "[General]: Verify the toggleability of the \"Allow Expired CA\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95325": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95325",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Allow Expired CA\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95326": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95326",
+        "title": "[General]: Verify the toggleability of the \"Deployments wherein the Firewall sees a single server IP...\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95327": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95327",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Deployments wherein the Firewall sees a single server IP...\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95328": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95328",
+        "title": "[General]: Verify the toggleability of the \"Allow SSL without decryption (bypass) when connection limit exceeded\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95329": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95329",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Allow SSL without decryption (bypass) when connection limit exceeded\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95330": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95330",
+        "title": "[General]: Verify the toggleability of the \"Audit new default exclusion domain names prior to being added for exclusion\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95331": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95331",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Audit new default exclusion domain names prior to being added for exclusion\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95332": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95332",
+        "title": "[General]: Verify the toggleability of the \"Always authenticate server before applying exclusion policy\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95333": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95333",
+        "title": "[General]: Verify the hover text content of the tooltip (i) control for \"Always authenticate server before applying exclusion policy\".",
+        "result": ""
+    },
+    "SOSAIOT-TC-95334": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95334",
+        "title": "[General]: Verify the clickability of the \"Accept\" button and the success prompt after saving the configuration.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95335": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95335",
+        "title": "[General]: Verify the clickability of the \"Cancel\" button and the reset function for modified items.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95336": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95336",
+        "title": "[Certificate]: Verify the accuracy and real-time display of the \"Current DPI-SSL connections (cur/peak/max)\" read-only data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95337": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95337",
+        "title": "[Certificate]: Verify the correctness of the explanatory text within the \"CERTIFICATE RE-SIGNING AUTHORITY\" prompt area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95338": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95338",
+        "title": "[Certificate]: Verify the clickability of the \"System > Certificates\" hyperlink and the page jump function.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95339": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95339",
+        "title": "[Certificate]: Verify the clickability of the \"Certificate\" drop-down selection box and the display of the certificate list.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95340": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95340",
+        "title": "[Certificate]: Verify the hover text check of the tooltip (i) control next to the \"Certificate\" drop-down box.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95341": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95341",
+        "title": "[Certificate]: Verify the clickability of the \"Download\" button and the download function for certificate files.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95342": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95342",
+        "title": "[Certificate]: Verify the clickability of the \"Accept\" button and the save status after configuration changes.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95343": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95343",
+        "title": "[Certificate]: Verify the clickability of the \"Cancel\" button and the reset function for unsaved changes.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95344": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95344",
+        "title": "[Objects]: Verify the display accuracy of the \"Current DPI-SSL connections (cur/peak/max)\" read-only data (e.g., 0 / 0 / 50000).",
+        "result": ""
+    },
+    "SOSAIOT-TC-95345": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95345",
+        "title": "[Objects]: Verify the clickability and option selection function of the Exclude drop-down menu in the \"ADDRESS OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95346": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95346",
+        "title": "[Objects]: Verify the clickability and option selection function of the Include drop-down menu in the \"ADDRESS OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95347": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95347",
+        "title": "[Objects]: Verify the clickability and option selection function of the Exclude drop-down menu in the \"SERVICE OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95348": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95348",
+        "title": "[Objects]: Verify the clickability and option selection function of the Include drop-down menu in the \"SERVICE OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95349": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95349",
+        "title": "[Objects]: Verify the clickability and option selection function of the Exclude drop-down menu in the \"USER OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95350": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95350",
+        "title": "[Objects]: Verify the clickability and option selection function of the Include drop-down menu in the \"USER OBJECT/GROUP\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95351": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95351",
+        "title": "[Objects]: Verify the clickability of the \"Accept\" button and the save function after object configuration changes.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95352": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95352",
+        "title": "[Objects]: Verify the clickability of the \"Cancel\" button and the reset function for modified but unsaved options.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95353": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95353",
+        "title": "[Common Name]: Verify the numerical display check of the \"Current DPI-SSL connections (cur/peak/max)\" read-only data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95354": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95354",
+        "title": "[Common Name]: Verify the display check of the \"Default Exclusions Timestamp\" read-only timestamp data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95355": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95355",
+        "title": "[Common Name]: Verify the display check of the \"Last Checked\" read-only date and time data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95356": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95356",
+        "title": "[Common Name]: Verify the clickability, text input, and clear function of the \"Search...\" input box.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95357": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95357",
+        "title": "[Common Name]: Verify the clickability of the \"View\" drop-down menu and the selection function for different filter views.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95358": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95358",
+        "title": "[Common Name]: Verify the clickability and state toggle of the \"Show Connection Failures\" button.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95359": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95359",
+        "title": "[Common Name]: Verify the clickability of the \"Add\" button and the function to pop up the new Common Name window.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95360": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95360",
+        "title": "[Common Name]: Verify the clickability of the \"Delete\" button (activated after selecting an item).",
+        "result": ""
+    },
+    "SOSAIOT-TC-95361": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95361",
+        "title": "[Common Name]: Verify the clickability of the \"Refresh\" button and the reload function for list data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95362": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95362",
+        "title": "[Common Name]: Verify the clickability of the \"Columns\" button and the operation of the custom column display menu.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95363": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95363",
+        "title": "[Common Name]: Verify the check and uncheck function of the \"Select All\" checkbox in the list header.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95364": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95364",
+        "title": "[Common Name]: Verify the clickability and selection status of individual item checkboxes in the list.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95365": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95365",
+        "title": "[Common Name]: Verify the read-only domain name text display check in the \"COMMON NAME\" list items.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95366": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95366",
+        "title": "[Common Name]: Verify the display check of the corresponding exclude/include status in the \"ACTION\" list items.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95367": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95367",
+        "title": "[Common Name]: Verify the display check of the corresponding audit status in the \"BUILT-IN\" list items.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95368": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95368",
+        "title": "[Common Name]: Verify the hover text check of the tooltip (i) icon in the \"UPDATE DEFAULT EXCLUSIONS MANUALLY\" area.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95369": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95369",
+        "title": "[Common Name]: Verify the clickability and page jump of the \"www.mysonicwall.com\" external hyperlink.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95370": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95370",
+        "title": "[Common Name]: Verify the clickability of the \"Import Exclusions\" button and the invocation of the file upload window.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95371": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95371",
+        "title": "[CFS Category]: Verify the numerical display check of the \"Current DPI-SSL connections (cur/peak/max)\" read-only data.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95372": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95372",
+        "title": "[CFS Category]: Verify the display check of the \"Content Filtering is not licensed\" prompt icon and warning text.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95373": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95373",
+        "title": "[CFS Category]: Verify the clickability and selection state toggle of the \"Exclude\" radio button.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95374": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95374",
+        "title": "[CFS Category]: Verify the clickability and selection state toggle of the \"Include\" radio button.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95375": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95375",
+        "title": "[CFS Category]: Verify the clickability of the \"Select all Categories\" checkbox and its linkage control for all category switches below.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95376": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95376",
+        "title": "[CFS Category]: Verify the clickability and state saving of the \"1. Violence\" category toggle switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95377": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95377",
+        "title": "[CFS Category]: Verify the clickability and state saving of the \"2. Intimate Apparel/Swimsuit\" category toggle switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95378": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95378",
+        "title": "[CFS Category]: Verify the clickability and state saving of the \"3. Nudism\" category toggle switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95379": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95379",
+        "title": "[CFS Category]: Verify the clickability and state saving of the \"4. Pornography\" category toggle switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95380": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95380",
+        "title": "[CFS Category]: Verify the clickability of the \"29. Search Engines and Portals\" category toggle switch (check gray-out or disabled logic).",
+        "result": ""
+    },
+    "SOSAIOT-TC-95381": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95381",
+        "title": "[CFS Category]: Verify the clickability and state toggle of the \"Exclude connection if Content Filter Category is not available\" switch.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95382": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95382",
+        "title": "[CFS Category]: Verify the clickability of the \"Accept\" button and the save function after CFS policy changes.",
+        "result": ""
+    },
+    "SOSAIOT-TC-95383": {
+        "steps": "",
+        "initial": "",
+        "id": "SOSAIOT-TC-95383",
+        "title": "[CFS Category]: Verify the clickability of the \"Cancel\" button and the withdrawal function for unsaved changes.",
+        "result": ""
+    }
+}

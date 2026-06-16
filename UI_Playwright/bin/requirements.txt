@@ -1,0 +1,5 @@
+pytest==7.4.0
+playwright==1.40.0
+pytest-playwright==0.4.0
+dotenv==1.2.1
+pytest-assume==2.4.3

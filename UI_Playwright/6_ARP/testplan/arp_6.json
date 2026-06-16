@@ -1,0 +1,44 @@
+{
+    "SOSAIOT-TC-ARP-01": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-01",
+        "title": "[base ui]: Verify that the Network -> System -> ARP page loads correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-ARP-02": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-02",
+        "title": "[base ui]: Title and Hierarchy: Verify the breadcrumb navigation displays correctly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-ARP-03": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-03",
+        "title": "[base ui]: Tab Switching: Verify that the main configuration tabs switch properly.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-ARP-04": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-04",
+        "title": "[base ui]: Default Data: Verify initial grid rendering of the ARP Cache table.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-ARP-05": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-05",
+        "title": "[base ui]: Default Data: Verify empty state layout for Static Entries.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-ARP-06": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-ARP-06",
+        "title": "[base ui]: Bottom Statistics: Verify total item counter synchronicity.",
+        "result": "n/a"
+    }
+}

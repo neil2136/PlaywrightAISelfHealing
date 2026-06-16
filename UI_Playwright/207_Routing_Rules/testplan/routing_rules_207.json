@@ -1,0 +1,51 @@
+{
+    "SOSAIOT-TC-95189": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95189",
+        "title": "[base ui]: Verify that the routing rules page loads correctly and displays the list of route objects.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95190": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95190",
+        "title": "[base ui]: Title and Hierarchy: Verify that the breadcrumb navigation displays as 2CB8ED694A24 / Policy / Rules and Policies / Routing Rules.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95191": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95191",
+        "title": "[base ui]: Rule Set Filter: Verify the functionality of the Default & Custom filter dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95192": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95192",
+        "title": "[base ui]: IP Type Filter: Verify the functionality of the IPv4 & IPv6 filter dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95194": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95194",
+        "title": "[base ui]: Rule Status Filter: Verify the functionality of the Active & Inactive filter dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95195": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95195",
+        "title": "[base ui]: Usage Status Filter: Verify the functionality of the Used & Unused filter dropdown options.",
+        "result": "n/a"
+    },
+    "SOSAIOT-TC-95202": {
+        "steps": "n/a",
+        "initial": "n/a",
+        "id": "SOSAIOT-TC-95202",
+        "title": "[base ui]: Rule Table Header: Verify the display of column headers such as GENERAL, LOOKUP, NEXT HOP, and PROBE/OPERATION.",
+        "result": "n/a"
+    }
+}
