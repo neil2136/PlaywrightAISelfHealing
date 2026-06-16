@@ -5,6 +5,8 @@
 > 一句话：**一次 AI 调用修复错误，下次零调用直接通过。**
 
 ---
+<img width="1430" height="980" alt="Image" src="https://github.com/user-attachments/assets/83b9971e-5d90-4908-a8cd-4d6693b3908f" />
+
 
 ## 1. 项目简介
 
